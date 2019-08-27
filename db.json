@@ -1,0 +1,12 @@
+{
+  "ingredients":[
+      {
+        "id":"1",
+        "name":"onion"
+      },
+      {
+        "id":"2",
+        "name":"potato"
+      }
+  ]
+}
